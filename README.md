@@ -1,0 +1,2 @@
+# studdybuddy
+learning with GPT
