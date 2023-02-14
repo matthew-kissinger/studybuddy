@@ -1,2 +1,2 @@
-# studdybuddy
+# StuddyBuddy
 learning with GPT
