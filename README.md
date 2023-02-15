@@ -9,8 +9,8 @@ This Python script generates a study guide for a given topic using the OpenAI GP
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/your_username/OpenAI-study-guide-creator.git`
-2. Navigate to the repository: `cd OpenAI-study-guide-creator`
+1. Clone this repository: `git clone https://github.com/matthew-kissinger/studybuddy.git`
+2. Navigate to the repository: `cd studybuddy`
 3. Install the required packages: `pip install openai`
 
 ## Usage
