@@ -15,7 +15,7 @@ This Python script generates a study guide for a given topic using the OpenAI GP
 
 ## Usage
 
-1. Run the script: `python main.py`
+1. Run the script: `python studybuddy.py`
 2. Enter your OpenAI API key when prompted.
 3. Enter the topic you want to learn about.
 4. Enter the number of hours you want to spend learning this topic.
